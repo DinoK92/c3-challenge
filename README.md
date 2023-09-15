@@ -11,4 +11,6 @@
 * User-Friendly Interface: Venmo's app is designed to be intuitive and easy to navigate, which encourages users, even those who are not tech-savvy, to use the service for their financial transactions.
 ## Where they see themselves in the future
 * Predicting the exact future trajectory of a company can be extremely challenging because it depends on a wide array of factors, including competitive dynamics, regulatory developments, and broader economic conditions. However, we can speculate on potential paths and opportunities for Venmo based on its current trajectory and the broader trends in the fintech industry. As of my last update in September 2021, here are some speculative points regarding Venmo's future
-  
+
+
+  ![Venmo](https://campbellteague.com/wp-content/uploads/2021/08/Screen-Shot-2021-08-10-at-9.07.01-AM.png)
